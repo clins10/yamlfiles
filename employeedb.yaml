@@ -1,0 +1,10 @@
+employees:
+  - name: Viashima Collins
+    position: Leads DevOps
+    department: Sales
+    salary: 1000000
+  - name: Eneh Agbo
+    position: Engineer
+    department: Engineering
+    salary: 80000
+ 
